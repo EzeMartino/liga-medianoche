@@ -4,7 +4,7 @@ const scores = [
   { name: "Luqui", total: 2 },
   { name: "Nacho", total: 2 },
   { name: "Duri", total: 1 },
-  { name: "Emi", total: 0 },
+  { name: "Emi", total: 1 },
   { name: "Zef", total: 1 }
 ];
 
