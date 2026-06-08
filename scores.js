@@ -5,7 +5,7 @@ const scores = [
   { name: "Nacho", total: 2 },
   { name: "Duri", total: 1 },
   { name: "Emi", total: 1 },
-  { name: "Zef", total: 1 }
+  { name: "Zef", total: 2 }
 ];
 
 function renderScores() {
